@@ -1,0 +1,7 @@
+Executando com Docker Compose
+
+Na raiz do projeto, você encontrará o arquivo docker-compose.yml, que contém as instruções para subir a aplicação. No terminal, navegue até a pasta do projeto e execute o seguinte comando:
+
+docker compose up
+
+Esse comando, usando o Docker Compose 2.0, irá iniciar os serviços definidos no arquivo docker-compose.yml na raiz do projeto.
